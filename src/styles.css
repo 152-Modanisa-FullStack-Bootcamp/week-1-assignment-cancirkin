@@ -1,4 +1,13 @@
-h1 {
-  color: hotpink;
-  font-family: cursive;
+body {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  border: 2px solid #ddd;
+  text-align: center;
+}
+
+img {
+  display: block;
 }
